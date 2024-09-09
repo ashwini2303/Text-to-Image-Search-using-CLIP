@@ -33,3 +33,7 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 Fork the repository <br/>
 Create a new branch<br/>
 Make your changes and submit a pull request<br/>
+
+## Contributors
+Ismat Sifat Yousuf (https://github.com/Athena6969) <br/>
+Thevananthan Thevarasa (https://github.com/dev-nanthan)
